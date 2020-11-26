@@ -1,0 +1,22 @@
+{
+  "name": "LzjPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of LzjPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eric1202/LzjPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eric1202": "jasonlee19891202@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/eric1202/LzjPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LzjPodTest/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LzjPodTest (0.1.0)
+
+DEPENDENCIES:
+  - LzjPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  LzjPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LzjPodTest: d835c45ddbd2f7b78cb2da59b11c1688994238ef
+
+PODFILE CHECKSUM: e37618f3df322b082fbc30e21c6bc76873a42aa0
+
+COCOAPODS: 1.9.3
